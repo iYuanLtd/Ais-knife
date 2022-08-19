@@ -40,6 +40,8 @@
         <img class="rounded-2xl" src="/emotion/8.png">
       </div>
 
+      <img class="rounded-2xl" src="/avatar.jpg">
+
       <div class="mt-20 font-extrabold text-slate-300">
         © iYuan
       </div>
